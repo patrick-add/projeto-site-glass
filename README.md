@@ -17,6 +17,7 @@ Tem algumas fotos que quando passa o mouse elas dão zoom e aparece o título.
 ![fotos](./img/fotos.png)
 ## MULTIMÍDIA
 Contém um vídeo e um áudio falando sobre o óculos.
+
 ![multimidia](./img/multimidia.png)
 ## FALE CONOSCO
 Tem tabelas com campos para entrar em contato e até mesmo fazer o pedido do óculos, pode escolher a cor, a quantidade já é feita a multiplicação e mostra o valor final.
