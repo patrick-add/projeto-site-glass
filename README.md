@@ -5,4 +5,4 @@ Esse foi um projeto do curso em vídeo com Gustavo Guanabara, basicamente é a m
 ![especificaçoes](img/especificaçoes.jpg)
 ![fotos](img/fotos.jpg)
 ![multimidia](img/multimidia.jpg)
-![fale conosco](img/fale conosco.jpg)
+![fale conosco](img/fale_conosco.jpg)
